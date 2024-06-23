@@ -80,16 +80,12 @@ color: var(--third-color);
 }
 
 /* lightbox */
-img { height: 100% !important ;
-  width: 100% !important;
-  object-fit:cover;}
+
 
 .img-fluid {
     max-width: 100%;
     height: auto;}
 
-.col-md-4 {
-  max-height:50vh ;}
 
 .container-xl {margin-bottom: 30px;}
 
